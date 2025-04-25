@@ -3,9 +3,9 @@ import BarraNavegacion from "./BarraNavegacion.jsx"
 
 export default function App() {
   return (
-    <section>
+    <div>
       <BarraNavegacion />
       <Contenido />
-    </section>
+    </div>
   ); 
 }
