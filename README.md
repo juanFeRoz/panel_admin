@@ -3,5 +3,6 @@ Una pagina simple creada con React que incorpora una barra de navegacion y disti
 
 ## Ejecucion
 `npm install`
+
 `npm run dev`
 
